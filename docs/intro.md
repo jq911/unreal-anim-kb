@@ -13,12 +13,10 @@ slug: /
 
 | 分类 | 说明 |
 |------|------|
-| [移动动画 (Locomotion)](./category/移动动画-locomotion) | 跑步、行走、跳跃等移动类动画方案 |
-| [战斗动画 (Combat)](./category/战斗动画-combat) | 攻击、受击、格挡等战斗类动画方案 |
-| [交互动画 (Interaction)](./category/交互动画-interaction) | 开门、拾取、攀爬等交互类动画方案 |
-| [蒙太奇 (Montage)](./category/蒙太奇-montage) | AnimMontage 相关技巧 |
-| [状态机 (State Machine)](./category/状态机-state-machine) | 动画状态机设计模式 |
-| [混合空间 (Blend Space)](./category/混合空间-blend-space) | BlendSpace 配置与使用 |
+| [Advanced Locomotion System V4](./als-v4/index) | ALS V4 动画蓝图相关知识与方案 |
+| [Lyra](./lyra/index) | Lyra 项目动画蓝图相关知识与方案 |
+| [Low Poly Shooter Pack v6.0](./low-poly-shooter/index) | Low Poly Shooter Pack v6.0 动画蓝图方案 |
+| [First Person Template](./first-person-template/index) | First Person Template 动画蓝图方案 |
 
 ## 如何使用
 

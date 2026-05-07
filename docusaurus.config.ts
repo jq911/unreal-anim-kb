@@ -73,7 +73,7 @@ const config: Config = {
           label: '知识库',
         },
         {
-          href: 'https://docs.unrealengine.com/5.4/en-US/animation-blueprints-in-unreal-engine/',
+          href: 'https://docs.unrealengine.com/5.7/en-US/animation-blueprints-in-unreal-engine/',
           label: 'UE 官方文档',
           position: 'right',
         },

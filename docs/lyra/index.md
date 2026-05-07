@@ -3,8 +3,8 @@ title: 概述
 sidebar_position: 1
 ---
 
-# 混合空间
+# Lyra
 
-此分类记录 BlendSpace 配置与使用方案。
+此分类记录 Lyra 项目动画蓝图相关知识与方案。
 
 *暂无条目，等待添加。*
