@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'UE 动画蓝图知识库',
+  title: '虚幻动画知识库',
   tagline: 'Unreal Engine Animation Blueprint Knowledge Base',
   favicon: 'img/favicon.ico',
 
@@ -38,7 +38,7 @@ const config: Config = {
       'classic',
       {
         docs: {
-          routeBasePath: '/', // 文档作为站点首页
+          routeBasePath: '/docs', // 文档在 /docs 路径下
           sidebarPath: './sidebars.ts',
         },
         blog: false, // 不需要博客
@@ -64,13 +64,18 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'UE 动画蓝图知识库',
+      title: '虚幻动画知识库',
+      logo: {
+        alt: '虚幻动画知识库 Logo',
+        src: 'img/docusaurus.png',
+      },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: '知识库',
+          label: '文档',
+          docsPluginId: 'default',
         },
         {
           href: 'https://docs.unrealengine.com/5.7/en-US/animation-blueprints-in-unreal-engine/',
@@ -81,7 +86,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} UE Animation Blueprint KB. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Unreal Animation Knowledge Base. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

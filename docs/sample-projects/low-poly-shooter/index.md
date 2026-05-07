@@ -1,5 +1,5 @@
 ---
-title: 概述
+title: Low Poly Shooter Pack v6.0
 sidebar_position: 1
 ---
 
