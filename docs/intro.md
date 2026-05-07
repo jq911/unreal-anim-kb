@@ -13,12 +13,12 @@ slug: /
 
 | 分类 | 说明 |
 |------|------|
-| [移动动画 (Locomotion)](./locomotion/run-blend) | 跑步、行走、跳跃等移动类动画方案 |
-| [战斗动画 (Combat)](./combat/index) | 攻击、受击、格挡等战斗类动画方案 |
-| [交互动画 (Interaction)](./interaction/index) | 开门、拾取、攀爬等交互类动画方案 |
-| [蒙太奇 (Montage)](./montage/index) | AnimMontage 相关技巧 |
-| [状态机 (State Machine)](./state-machine/index) | 动画状态机设计模式 |
-| [混合空间 (Blend Space)](./blend-space/index) | BlendSpace 配置与使用 |
+| [移动动画 (Locomotion)](./category/移动动画-locomotion) | 跑步、行走、跳跃等移动类动画方案 |
+| [战斗动画 (Combat)](./category/战斗动画-combat) | 攻击、受击、格挡等战斗类动画方案 |
+| [交互动画 (Interaction)](./category/交互动画-interaction) | 开门、拾取、攀爬等交互类动画方案 |
+| [蒙太奇 (Montage)](./category/蒙太奇-montage) | AnimMontage 相关技巧 |
+| [状态机 (State Machine)](./category/状态机-state-machine) | 动画状态机设计模式 |
+| [混合空间 (Blend Space)](./category/混合空间-blend-space) | BlendSpace 配置与使用 |
 
 ## 如何使用
 
